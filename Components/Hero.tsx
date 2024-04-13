@@ -1,7 +1,7 @@
 import React from 'react'
 import TextEffects from './TextEffects'
 import Image from 'next/image'
-import Particle from './Particle'
+// import Particle from './Particle'
 import { ArrowDownTrayIcon } from '@heroicons/react/16/solid'
 
 function Hero() {
